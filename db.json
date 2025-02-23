@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "What does HTML stand for?",
+            "options": [
+                "Programming Language",
+                "Hyper Text Markup Language",
+                "Hyper Text Language",
+                "Web Server"
+            ],
+            "answer": "Hyper Text Markup Language"
+        },
+        {
+            "question": "What does CSS stand for?",
+            "options": [
+                "Cascading Style Sheets",
+                "Computer Style Sheets",
+                "Colorful Style Sheets",
+                "Creative Style Sheets"
+            ],
+            "answer": "Cascading Style Sheets"
+        },
+        {
+            "question": "What does JavaScript stand for?",
+            "options": [
+                "Java Syntax",
+                "Just Scripting",
+                "JavaScript Standard",
+                "None of the Above"
+            ],
+            "answer": "None of the Above"
+        },
+        {
+            "question": "What does JavaScript stand for?",
+            "options": [
+                "Java Syntax",
+                "Just Scripting",
+                "JavaScript Standard",
+                "None of the Above"
+            ],
+            "answer": "None of the Above"
+        }
+    ]
+}
