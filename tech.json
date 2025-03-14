@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the primary goal of cybersecurity?",
+            "options": [
+                "To protect digital systems",
+                "To hack into systems",
+                "To slow down internet speed",
+                "To remove antivirus software"
+            ],
+            "answer": "To protect digital systems"
+        },
+        {
+            "question": "Which of the following is an example of multi-factor authentication (MFA)?",
+            "options": [
+                "Only password",
+                "Password + OTP",
+                "Only fingerprint",
+                "Only username"
+            ],
+            "answer": "Password + OTP"
+        },
+        {
+            "question": "What does 'phishing' refer to in cybersecurity?",
+            "options": [
+                "A type of malware",
+                "An attempt to trick users into providing sensitive information",
+                "A way to encrypt data",
+                "A strong firewall setup"
+            ],
+            "answer": "An attempt to trick users into providing sensitive information"
+        },
+        {
+            "question": "Which is the safest way to create a strong password?",
+            "options": [
+                "Using common words",
+                "Using personal details",
+                "Using a mix of letters, numbers & symbols",
+                "Keeping it short"
+            ],
+            "answer": "Using a mix of letters, numbers & symbols"
+        },
+        {
+            "question": "What is the best practice to avoid malware infections?",
+            "options": [
+                "Click on unknown links",
+                "Download attachments from unknown emails",
+                "Use updated antivirus software",
+                "Ignore software updates"
+            ],
+            "answer": "Use updated antivirus software"
+        },
+        {
+            "question": "Which of the following is NOT a cybersecurity threat?",
+            "options": [
+                "Ransomware",
+                "Trojan",
+                "Firewall",
+                "Spyware"
+            ],
+            "answer": "Firewall"
+        },
+        {
+            "question": "What should you do if you receive an email from an unknown sender with an attachment?",
+            "options": [
+                "Open it immediately",
+                "Download and run the file",
+                "Ignore or delete the email",
+                "Reply and ask who they are"
+            ],
+            "answer": "Ignore or delete the email"
+        },
+        {
+            "question": "What does VPN stand for in cybersecurity?",
+            "options": [
+                "Virtual Protection Network",
+                "Very Personal Network",
+                "Virtual Private Network",
+                "Verified Public Network"
+            ],
+            "answer": "Virtual Private Network"
+        },
+        {
+            "question": "Which of these is a common type of social engineering attack?",
+            "options": [
+                "Phishing",
+                "Encryption",
+                "Cloud storage",
+                "Proxy server"
+            ],
+            "answer": "Phishing"
+        },
+        {
+            "question": "Why should you avoid using public Wi-Fi for sensitive transactions?",
+            "options": [
+                "It is expensive",
+                "It may be slow",
+                "It can be easily hacked",
+                "It is only available in offices"
+            ],
+            "answer": "It can be easily hacked"
+        }
+    ]
+}
