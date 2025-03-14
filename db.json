@@ -1,44 +1,104 @@
 {
     "questions": [
         {
-            "question": "What does HTML stand for?",
+            "question": "Which emerging technology is often called the backbone of Web3?",
             "options": [
-                "Programming Language",
-                "Hyper Text Markup Language",
-                "Hyper Text Language",
-                "Web Server"
+                "Artificial Intelligence (AI)",
+                "Blockchain",
+                "Cloud Computing",
+                "Augmented Reality (AR)"
             ],
-            "answer": "Hyper Text Markup Language"
+            "answer": "Blockchain"
         },
         {
-            "question": "What does CSS stand for?",
+            "question": "What does IoT stand for?",
             "options": [
-                "Cascading Style Sheets",
-                "Computer Style Sheets",
-                "Colorful Style Sheets",
-                "Creative Style Sheets"
+                "Internet of Technology",
+                "Internet of Transactions",
+                "Internet of Things",
+                "Internet of Trends"
             ],
-            "answer": "Cascading Style Sheets"
+            "answer": "Internet of Things"
         },
         {
-            "question": "What does JavaScript stand for?",
+            "question": "Which programming language is most commonly used in AI and machine learning?",
             "options": [
-                "Java Syntax",
-                "Just Scripting",
-                "JavaScript Standard",
-                "None of the Above"
+                "Java",
+                "C++",
+                "Python",
+                "Swift"
             ],
-            "answer": "None of the Above"
+            "answer": "Python"
         },
         {
-            "question": "What does JavaScript stand for?",
+            "question": "Quantum computing is based on which fundamental principle?",
             "options": [
-                "Java Syntax",
-                "Just Scripting",
-                "JavaScript Standard",
-                "None of the Above"
+                "Classical Physics",
+                "Binary Processing",
+                "Superposition & Entanglement",
+                "Cloud Synchronization"
             ],
-            "answer": "None of the Above"
+            "answer": "Superposition & Entanglement"
+        },
+        {
+            "question": "What is the primary advantage of 5G technology?",
+            "options": [
+                "Longer battery life for devices",
+                "Higher internet speed and lower latency",
+                "More security threats",
+                "Increased power consumption"
+            ],
+            "answer": "Higher internet speed and lower latency"
+        },
+        {
+            "question": "Which of the following is a key benefit of edge computing?",
+            "options": [
+                "Increased centralization",
+                "Lower latency and faster processing",
+                "Increased reliance on data centers",
+                "Higher costs and complexity"
+            ],
+            "answer": "Lower latency and faster processing"
+        },
+        {
+            "question": "Which of these is an example of a no-code/low-code development platform?",
+            "options": [
+                "React.js",
+                "Flutter",
+                "Bubble.io",
+                "TensorFlow"
+            ],
+            "answer": "Bubble.io"
+        },
+        {
+            "question": "The metaverse is primarily associated with which technology?",
+            "options": [
+                "Artificial Intelligence",
+                "Virtual Reality & Augmented Reality",
+                "Blockchain",
+                "5G Networks"
+            ],
+            "answer": "Virtual Reality & Augmented Reality"
+        },
+        {
+            "question": "Which innovation is revolutionizing the financial sector through decentralized transactions?",
+            "options": [
+                "Digital Wallets",
+                "Cloud Banking",
+                "Cryptocurrencies",
+                "AI Chatbots"
+            ],
+            "answer": "Cryptocurrencies"
+        },
+        {
+            "question": "Which company developed the AI chatbot ChatGPT?",
+            "options": [
+                "Google",
+                "OpenAI",
+                "Microsoft",
+                "Amazon"
+            ],
+            "answer": "OpenAI"
         }
     ]
 }
